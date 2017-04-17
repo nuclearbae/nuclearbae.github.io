@@ -63,9 +63,9 @@ Native Korean, Fluent English, Intermediate Spanish
 
 # Honors & Awards
 
-**Dean's list** University of Illinos (2012, 2014, 2015, 2016, 2017)  
+**Dean's list** University of Illinois (2012, 2014, 2015, 2016, 2017)  
 **Top Specialist Trainee** (2012)  
-**Sigma Phi Delta Fraternity** member  
+**Sigma Phi Delta Fraternity**, member  
 **Outstanding Undergraduate Research** University of Illinois (2017)  
 **First in Fuel Cycles & Waste Management** American Nuclear Society (2017)  
 
