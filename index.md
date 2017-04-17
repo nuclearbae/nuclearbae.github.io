@@ -1,24 +1,26 @@
 ## Contact Info
 
 Email:
-jbae11@illinois.edu
+
+<jbae11@illinois.edu>
 
 Phone:
+
 +1) 217.377.5784
 
 ## Education
+**University of Illinois at Urbana Champaign**
+
+May 2017  
+Nuclear, Plasma, Radiological Engineering (B.S.)  
+Arms Control, Domestic, International Security Program  
+GPA: 3.8/4.0
 
 **University of Illinois at Urbana Champaign**
-May 2017
-Nuclear, Plasma, Radiological Engineering
-Arms Control, Domestic, International Security Program
-B.S., 	GPA: 3.8/4.0
 
-**University of Illinois at Urbana Champaign**
-Dec 2022
-Nuclear, Plasma, Radiological Engineering
-Ph.D.,
-Advisor: Kathryn Huff
+Dec 2022  
+Nuclear, Plasma, Radiological Engineering (Ph.D.)  
+Advisor: Professor Kathryn Huff
 
 
 ## Experience
@@ -48,11 +50,11 @@ Advisor: Kathryn Huff
 ### University Housing (University of Illinois)
 **Multicultural Advocate**
  - Manage budgets and request funds up to $1,000 for programs
- - Hodl weekly and monthly programs promoting social justice, inclusiveness and sense of community for ~300 people
+ - Hold weekly and monthly programs promoting social justice, inclusiveness and sense of community for ~300 people
 
 ## Skills
 
-###Programs / Code
+### Programs / Code
 MATLAB, MS Excel, Unity 3D, SteamVR, SERPENT, PARCS, Cyclus, Sqlite
 
 ### Coding Language
