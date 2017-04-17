@@ -38,9 +38,11 @@ Advisor: Professor Kathryn Huff
 **Landmine Specialist**
  - Learned and applied complex safety training and protocol to remove landmine
  - Lead training for landmine installment & displacement
-**Company Counselor**
- - Helped 22 soldiers seek help mentally and assisted adjustment
-**Logistics Manager**
+ 
+**Company Counselor**  
+ - Helped 22 soldiers seek help mentally and assisted adjustment  
+ 
+**Logistics Manager**  
  - Created a system (excel) to efficiently keep track of ~200 equipment in company
 
 ### University Housing (University of Illinois)
@@ -61,11 +63,11 @@ Native Korean, Fluent English, Intermediate Spanish
 
 # Honors & Awards
 
-**Dean's list** University of Illinos (2012, 2014, 2015, 2016, 2017)
-**Top Specialist Trainee** (2012)
-**Sigma Phi Delta Fraternity** member
-**Outstanding Undergraduate Research** University of Illinois (2017)
-**First in Fuel Cycles & Waste Management** American Nuclear Society (2017)
+**Dean's list** University of Illinos (2012, 2014, 2015, 2016, 2017)  
+**Top Specialist Trainee** (2012)  
+**Sigma Phi Delta Fraternity** member  
+**Outstanding Undergraduate Research** University of Illinois (2017)  
+**First in Fuel Cycles & Waste Management** American Nuclear Society (2017)  
 
 # Publications
 
