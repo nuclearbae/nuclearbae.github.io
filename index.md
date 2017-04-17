@@ -48,6 +48,7 @@ Oct 2012 - Jul 2014
 
 ### University Housing (University of Illinois)  
 Aug 2015 - May 2016
+ 
 **Multicultural Advocate**
  - Manage budgets and request funds up to $1,000 for programs
  - Hold weekly and monthly programs promoting social justice, inclusiveness and sense of community for ~300 people
