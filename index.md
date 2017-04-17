@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+## Contact Info
 
-You can use the [editor on GitHub](https://github.com/nuclearbae/nuclearbae.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Email:
+jbae11@illinois.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Phone:
++1) 217.377.5784
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**University of Illinois at Urbana Champaign**
+May 2017
+Nuclear, Plasma, Radiological Engineering
+Arms Control, Domestic, International Security Program
+B.S., 	GPA: 3.8/4.0
 
-```markdown
-Syntax highlighted code block
+**University of Illinois at Urbana Champaign**
+Dec 2022
+Nuclear, Plasma, Radiological Engineering
+Ph.D.,
+Advisor: Kathryn Huff
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Experience
 
-1. Numbered
-2. List
+### Research Assistant
 
-**Bold** and _Italic_ and `Code` text
+**Advanced Reactors and Fuel Cycle Research Group**
+ - Python and C++ software development of `Cyclus` software
+ - simulate demand-driven transition scenario of various nuclear fuel cycles
+ - Data scraping and analysis (sqlite, python, web parsing)
 
-[Link](url) and ![Image](src)
-```
+**Arms Control, Domestic, International Security Program**
+ - model spent nuclear fuel inventory in Europe using `Cyclus`
+ - research technical, economic, social benefits of siting a borehole repository on a decommissioned nuclear power plant
+ - create course material for borehole repository design
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### National Army, Republic of Korea
 
-### Jekyll Themes
+**Landmine Specialist**
+ - Learned and applied complex safety training and protocol to remove landmine
+ - Lead training for landmine installment & displacement
+**Company Counselor**
+ - Helped 22 soldiers seek help mentally and assisted adjustment
+**Logistics Manager**
+ - Created a system (excel) to efficiently keep track of ~200 equipment in company
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nuclearbae/nuclearbae.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### University Housing (University of Illinois)
+**Multicultural Advocate**
+ - Manage budgets and request funds up to $1,000 for programs
+ - Hodl weekly and monthly programs promoting social justice, inclusiveness and sense of community for ~300 people
 
-### Support or Contact
+## Skills
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Programs / Code
+MATLAB, MS Excel, Unity 3D, SteamVR, SERPENT, PARCS, Cyclus, Sqlite
+
+### Coding Language
+C++, Python
+
+### Language
+Native Korean, Fluent English, Intermediate Spanish
+
+## Honors & Awards
+
+**Dean's list** University of Illinos (2012, 2014, 2015, 2016, 2017)
+**Top Specialist Trainee** (2012)
+**Sigma Phi Delta Fraternity** member
+**Outstanding Undergraduate Research** University of Illinois (2017)
+**First in Fuel Cycles & Waste Management** American Nuclear Society (2017)
+
+## Publications
+
+### Conference Proceedings
+ - [Bae, Jin Whan, William Roy, and Kathryn D. Huff. 2017. “Benefits of Siting a Borehole Repository at a Non-Operating Nuclear Facility.” In Proceedings of the International High Level Radioactive Waste Management Conference. Charlotte, North Carolina: American Nuclear Society.](http://arfc.npre.illinois.edu/papers/bae_benefits_2017.pdf)
