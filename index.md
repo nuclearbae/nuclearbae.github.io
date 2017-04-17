@@ -1,4 +1,4 @@
-## Contact Info
+# Contact Info
 
 Email:
 
@@ -8,7 +8,7 @@ Phone:
 
 +1) 217.377.5784
 
-## Education
+# Education
 **University of Illinois at Urbana Champaign**
 
 May 2017  
@@ -23,7 +23,7 @@ Nuclear, Plasma, Radiological Engineering (Ph.D.)
 Advisor: Professor Kathryn Huff
 
 
-## Experience
+# Experience
 
 ### Research Assistant
 
@@ -52,7 +52,7 @@ Advisor: Professor Kathryn Huff
  - Manage budgets and request funds up to $1,000 for programs
  - Hold weekly and monthly programs promoting social justice, inclusiveness and sense of community for ~300 people
 
-## Skills
+# Skills
 
 ### Programs / Code
 MATLAB, MS Excel, Unity 3D, SteamVR, SERPENT, PARCS, Cyclus, Sqlite
@@ -63,7 +63,7 @@ C++, Python
 ### Language
 Native Korean, Fluent English, Intermediate Spanish
 
-## Honors & Awards
+# Honors & Awards
 
 **Dean's list** University of Illinos (2012, 2014, 2015, 2016, 2017)
 **Top Specialist Trainee** (2012)
@@ -71,7 +71,7 @@ Native Korean, Fluent English, Intermediate Spanish
 **Outstanding Undergraduate Research** University of Illinois (2017)
 **First in Fuel Cycles & Waste Management** American Nuclear Society (2017)
 
-## Publications
+# Publications
 
 ### Conference Proceedings
  - [Bae, Jin Whan, William Roy, and Kathryn D. Huff. 2017. “Benefits of Siting a Borehole Repository at a Non-Operating Nuclear Facility.” In Proceedings of the International High Level Radioactive Waste Management Conference. Charlotte, North Carolina: American Nuclear Society.](http://arfc.npre.illinois.edu/papers/bae_benefits_2017.pdf)
