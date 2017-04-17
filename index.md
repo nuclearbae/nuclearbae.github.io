@@ -9,15 +9,13 @@ Phone:
 +1) 217.377.5784
 
 # Education
-**University of Illinois at Urbana Champaign**
-
+**University of Illinois at Urbana Champaign**  
 May 2017  
 Nuclear, Plasma, Radiological Engineering (B.S.)  
 Arms Control, Domestic, International Security Program  
 GPA: 3.8/4.0
 
-**University of Illinois at Urbana Champaign**
-
+**University of Illinois at Urbana Champaign**  
 Dec 2022  
 Nuclear, Plasma, Radiological Engineering (Ph.D.)  
 Advisor: Professor Kathryn Huff
