@@ -6,6 +6,8 @@ Email:
 Phone:  
 +1) 217.377.5784
 
+[LinkedIn](https://www.linkedin.com/in/jin-whan-bae-bb4377b4/)
+
 # Education
 **University of Illinois at Urbana Champaign**  
 May 2017  
