@@ -1,57 +1,13 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8"/>
-		<title>Jin Whan Bae</title>
-		<!--[if lt IE 9]>
-			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz"/>
-		<link rel="stylesheet" media="all" href="maori.css"/>
-		<link rel="stylesheet" media="all" href="custom.css"/>
-		<meta name = "viewport" content = "initial-scale = .5">
-		
-        <!-- <script type="text/javascript" src="http://use.typekit.com/rds7nju.js"></script>
-        <script type="text/javascript">try{Typekit.load();}catch(e){}</script> -->
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-        <script type="text/javascript" src="http://cdn.jquerytools.org/1.2.4/jquery.tools.min.js"></script>
-        <script type="text/javascript" charset="utf-8">
-            $(function(){
-               $('#connections a[title]').tooltip({ position:"bottom center" });
-               
-               $('header small a').click(function(){
-                   $('#contact_info').slideToggle('slow');
-               })
-            });
-        </script>
-	</head>
-	<body>
-	    <header>
-	        <small>
-	            <a href="#">Contact Info</a>
-	            <div id="contact_info" style="display:none">
-	                <h3>Jin Whan Bae</h3>
-	                <a href="mailto:jbae11@illinois.edu">jbae11@illinois.edu</a>
-	                <h4>217.377.5784</h4>
-									<div id="connections">
-										<br/>
-										<span>
-											<a href="http://github.com/jbae11" title="github"><img class="connection" src="./icon-github.png"/></a>
-											<a href="http://facebook.com/nuclearbae" title="facebook"><img class="connection" src="./icon-facebook.gif"/></a>
-										</span>
-									</div>
-	            </div>
-	        </small>
-	    </header>
-	    
-		<section id="content">
-			<header>
-				<h1>Jin Whan Bae</h1>
-				<h2>Graduate Researcher, Nuclear Engineering</h2>
-			</header>
-			
-			
-		</section>
-		
-	</body>
-</html>
+---
+layout: default
+title: {{ site.name }}
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
