@@ -25,17 +25,18 @@ Advisor: Kathryn Huff
 
 ### Research Assistant
 
-**Advanced Reactors and Fuel Cycle Research Group**
+**Advanced Reactors and Fuel Cycle Research Group** (Sept 2016 - )
  - Python and C++ software development of `Cyclus` software
  - simulate demand-driven transition scenario of various nuclear fuel cycles
  - Data scraping and analysis (sqlite, python, web parsing)
 
-**Arms Control, Domestic, International Security Program**
+**Arms Control, Domestic, International Security Program** (Sept 2016 - May 2017)
  - model spent nuclear fuel inventory in Europe using `Cyclus`
  - research technical, economic, social benefits of siting a borehole repository on a decommissioned nuclear power plant
  - create course material for borehole repository design
 
-### National Army, Republic of Korea
+### National Army, Republic of Korea  
+Oct 2012 - Jul 2014
 
 **Landmine Specialist**
  - Learned and applied complex safety training and protocol to remove landmine
@@ -45,7 +46,8 @@ Advisor: Kathryn Huff
 **Logistics Manager**
  - Created a system (excel) to efficiently keep track of ~200 equipment in company
 
-### University Housing (University of Illinois)
+### University Housing (University of Illinois)  
+Aug 2015 - May 2016
 **Multicultural Advocate**
  - Manage budgets and request funds up to $1,000 for programs
  - Hodl weekly and monthly programs promoting social justice, inclusiveness and sense of community for ~300 people
