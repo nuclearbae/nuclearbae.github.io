@@ -1,11 +1,9 @@
 # Contact Info
 
-Email:
-
+Email:  
 <jbae11@illinois.edu>
 
-Phone:
-
+Phone:  
 +1) 217.377.5784
 
 # Education
