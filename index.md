@@ -73,6 +73,7 @@ Native Korean, Fluent English, Intermediate Spanish
 **Sigma Phi Delta Fraternity**, member  
 **Outstanding Undergraduate Research** University of Illinois (2017)  
 **First in Fuel Cycles & Waste Management** American Nuclear Society (2017)  
+**Daniel F. Hang Outstanding Senior Design Award** University of Illinois (2017)
 
 # Publications
 
