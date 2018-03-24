@@ -80,7 +80,7 @@ Native Korean, Fluent English, Intermediate Spanish
 ### Conference Proceedings
  - [Bae, Jin Whan, William Roy, and Kathryn D. Huff. 2017. “Benefits of Siting a Borehole Repository at a Non-Operating Nuclear Facility.” In Proceedings of the International High Level Radioactive Waste Management Conference. Charlotte, North Carolina: American Nuclear Society.](http://arfc.npre.illinois.edu/papers/bae_benefits_2017.pdf)
 
- - [Huff, Kathryn D., Jin Whan Bae, Kathryn A. Mummah, Robert R. Flanagan, and Anthony M. Scopatz. 2017. “Current Status Of Predictive Transition Capability in Fuel Cycle Simulation.” In Proceedings Of Global 2017. Seoul, South Korea.](
- 
+ - Huff, Kathryn D., Jin Whan Bae, Kathryn A. Mummah, Robert R. Flanagan, and Anthony M. Scopatz. 2017. “Current Status Of Predictive Transition Capability in Fuel Cycle Simulation.” In Proceedings Of Global 2017. Seoul, South Korea.
+
  - [Bae, Jin Whan, Kathryn Huff, and Clifford Singer. 2017. “Synergistic Spent Nuclear Fuel Dynamics Within The European Union.” In Transactions Of the American Nuclear Society Winter Conference. Washington, D.C.: American Nuclear Society.](http://arfc.github.io/papers/bae_synergistic_2017.pdf)
  
