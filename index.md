@@ -16,16 +16,22 @@ Arms Control, Domestic, International Security Program
 GPA: 3.8/4.0
 
 **University of Illinois at Urbana Champaign**  
-Dec 2022  
-Nuclear, Plasma, Radiological Engineering (Ph.D.)  
+Dec 2018  
+Nuclear, Plasma, Radiological Engineering (M.S.)  
 Advisor: Professor Kathryn Huff
 
 
 # Experience
 
+### Oak Ridge National Laboratory
+
+**Reserach Associate (Feb 2019 - present)
+ - Performed reactor physics in support of the High Flux Isotope Reactor (HFIR) low enriched uranium (LEU) conversion project
+ - Generated neural network models to predict mixed oxide (MOX) fuel assembly criticality value before and after irradiation
+
 ### Research Assistant
 
-**Advanced Reactors and Fuel Cycle Research Group** (Sept 2016 - )
+**Advanced Reactors and Fuel Cycle Research Group** (Sept 2016 - Dec 2018)
  - Python and C++ software development of `Cyclus` software
  - simulate demand-driven transition scenario of various nuclear fuel cycles
  - Data scraping and analysis (sqlite, python, web parsing)
@@ -76,11 +82,4 @@ Native Korean, Fluent English, Intermediate Spanish
 **Daniel F. Hang Outstanding Senior Design Award** University of Illinois (2017)
 
 # Publications
-
-### Conference Proceedings
- - [Bae, Jin Whan, William Roy, and Kathryn D. Huff. 2017. “Benefits of Siting a Borehole Repository at a Non-Operating Nuclear Facility.” In Proceedings of the International High Level Radioactive Waste Management Conference. Charlotte, North Carolina: American Nuclear Society.](http://arfc.npre.illinois.edu/papers/bae_benefits_2017.pdf)
-
- - Huff, Kathryn D., Jin Whan Bae, Kathryn A. Mummah, Robert R. Flanagan, and Anthony M. Scopatz. 2017. “Current Status Of Predictive Transition Capability in Fuel Cycle Simulation.” In Proceedings Of Global 2017. Seoul, South Korea.
-
- - [Bae, Jin Whan, Kathryn Huff, and Clifford Singer. 2017. “Synergistic Spent Nuclear Fuel Dynamics Within The European Union.” In Transactions Of the American Nuclear Society Winter Conference. Washington, D.C.: American Nuclear Society.](http://arfc.github.io/papers/bae_synergistic_2017.pdf)
- 
+[google scholar](https://scholar.google.com/citations?user=M4wdbikAAAAJ&hl=en)
